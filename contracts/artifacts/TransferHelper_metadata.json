@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/indrarouter.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/indrarouter.sol": {
+			"keccak256": "0xd872b465249c6439edf99fc4cffa8ca133d798235e601869dbdda9c28604f18f",
+			"urls": [
+				"bzz-raw://bcd8365044a5ee4b855a9a54d2162b30635eaa5d49ad329e7693cb782ca72efa",
+				"dweb:/ipfs/QmNPZ2PvwPBaBpg8Uaa1JJj37dAwzD5UeXQ4FS2AqtBk2X"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/cake.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/cake.sol": {
+			"keccak256": "0xcc74bf5f7927419f494100a2a2ab23a786e8dd826f27bf507c530ef88bdafbbc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://03cd4de9a75b12700c472ee6f2bb995f644fad13bc428cf75f4fa291f01ff03c",
+				"dweb:/ipfs/QmazprEBshishMV8TFCs2yan66j2spPZUyvdug6jYVMnBq"
+			]
+		}
+	},
+	"version": 1
+}
